@@ -6,16 +6,17 @@ layout: home
 ---
 # Eric Shu
 shux@myumanitoba.ca  
-https://github.com/Wolfskee
-___
+https://github.com/Wolfskee  
+---
+
 ### Summary  
-Recent computer science graduate with experience in software development and data analysis. Proficient in several programming languages and software tools. Strong problem-solving and analytical skills.
-___
+Recent computer science graduate with experience in software development and data analysis. Proficient in several programming languages and software tools. Strong problem-solving and analytical skills.   
+---
 ## Education
 
 Bachelor of Computer Science (Major)  
-University of Manitoba
-___
+University of Manitoba   
+---
 ## Skills
 **Languages**
 - Python
@@ -29,8 +30,8 @@ ___
 **Framework**
 - vue.js
 - node.js
-- django
-___
+- django   
+---
 ## Projects
 **Data Analysis of Consumer Reviews**
 
@@ -44,8 +45,8 @@ ___
 - Developed a full-stack web application using Python and django
 - Designed and implemented database schema using SQL
 - Used Git for version control and collaboration with team members
-- Deployed the application on a cloud-based platform
-___
+- Deployed the application on a cloud-based platform   
+---
 ## Experience
 
 **Software Engineering Intern, XYZ Company, Summer 2020**
@@ -53,8 +54,8 @@ ___
 - Worked with a team of developers to implement new features for a web-based application
 - Developed and maintained automated test scripts using Python and Selenium
 - Assisted in troubleshooting and debugging issues reported by users
-- Participated in code reviews and contributed to team knowledge base
-
+- Participated in code reviews and contributed to team knowledge base   
+---
 ### Teaching Assistant, University of California, Los Angeles, September 2019 - June 2021
 
 - Assisted with course administration and grading for computer science courses
