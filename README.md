@@ -31,8 +31,17 @@ On your local machine, clone the repository you just created using Atom's built-
  ![A GIF showing copy URL](https://github.com/Wolfskee/EricS.github.io/blob/master/pic/copyURL.gif)
  ![A GIF showing paste URL](https://github.com/Wolfskee/EricS.github.io/blob/master/pic/pasteURL.gif)
 
-Step 4: Add Your Resume
-Copy and paste your resume into a new file in the repository. Save the file with the name "index.md".
+**Step 4: Hosting in GitHub Pages.**  
+1. Once you installed the Jekyll, run `jekyll new mySite` (mySite is your project's name) to create a new Jekyll project. And then using `cd mySite` to change directory to **mySite**.
+![A pic showing jekyll new mySite](https://github.com/Wolfskee/EricS.github.io/blob/master/pic/jekyllNew.jpg)
+![A pic showing cd mySite](https://github.com/Wolfskee/EricS.github.io/blob/master/pic/cdMysite.jpg)
+
+2. Delete the created **index.md** file in your mySite project, and rename your **resume** file to **index.md** and put your new **index.md** into your mySite Project.
+
+3. Push your mySite project into your GitHub. Using code:  
+`git remote add origin <URL_OF_YOUR_REPOSITORY>`
+`git branch -M main`  
+`git push -u origin main`
 
 Step 5: Choose a Jekyll Theme
 Choose a Jekyll theme for your resume. A good place to start is the Jekyll Themes website. Once you've found a theme you like, copy the files for that theme into your repository. Make sure to include any dependencies or assets that the theme requires.
