@@ -9,37 +9,44 @@ In this section, you need to prepare the items that be listed below:
 1. Get yourself a Markdown editor
   * [Atom](https://atom.io)
   * [VSCode](https://code.visualstudio.com/)
-2. [Create GitHub Account](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)
-3. [Download Ruby](https://www.ruby-lang.org/en/downloads/)
-4. [Download Jekyll](https://jekyllrb.com/docs/)
+2. Create [GitHub](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home) Account
+3. Download [Ruby](https://www.ruby-lang.org/en/downloads/)
+4. Download [Jekyll](https://jekyllrb.com/docs/)
 
 ## Instructions
 **Step 1**: Create a Repository in GitHub.  
 Once you created your GitHub Account. Login in to your GitHub Account, you will see a "**New**" button on your top Left.
  ![A GIF showing the step 1](https://github.com/Wolfskee/EricS.github.io/blob/master/pic/createRepository.gif)  
  give a name for your repository:
- ![A GIF showing the give name of repository]()
+ ![A GIF showing the give name of repository](https://github.com/Wolfskee/EricS.github.io/blob/master/pic/nameRepository.gif)
+
+**Step 2**: Choosing a Jekyll Theme for Your GitHub Page.  
+Go the the SETTINGS section of your repository. In the SETTINGS section, there will be a GitHub Pages section. In this section, there is a button "**Theme Chooser**" to select your a Jekyll Theme. This will redirect you to a page where you select and preview a handful of themes. Choose the one that you like best.
+![A GIF showing how to choose theme]()
 
 
-Step 2: Clone the Repository
-On your local machine, clone the repository you just created using VS Code's built-in Git functionality. Open VS Code, press F1 or Ctrl+Shift+P, and type "Git: Clone." Enter the URL of your repository when prompted.
 
-Step 3: Add Your Resume
+**Step 3**: Clone the Repository.  
+On your local machine, clone the repository you just created using Atom's built-in Git functionality. Open Atom, press Ctrl+Shift+P,(On Mac OS press Command+Shift+P) and type "GitHub: Clone." Enter the URL of your repository when prompted.
+ ![A GIF showing copy URL](https://github.com/Wolfskee/EricS.github.io/blob/master/pic/copyURL.gif)
+ ![A GIF showing paste URL](https://github.com/Wolfskee/EricS.github.io/blob/master/pic/pasteURL.gif)
+
+Step 4: Add Your Resume
 Copy and paste your resume into a new file in the repository. Save the file with the name "index.md".
 
-Step 4: Choose a Jekyll Theme
+Step 5: Choose a Jekyll Theme
 Choose a Jekyll theme for your resume. A good place to start is the Jekyll Themes website. Once you've found a theme you like, copy the files for that theme into your repository. Make sure to include any dependencies or assets that the theme requires.
 
-Step 5: Customize the Theme
+Step 6: Customize the Theme
 Customize the theme to your liking. This may involve modifying the theme's configuration file, adding custom CSS, or changing the layout of the resume.
 
-Step 6: Preview Your Resume
+Step 7: Preview Your Resume
 To preview your resume locally, open a terminal in VS Code and run the command "bundle exec jekyll serve". This will start a local Jekyll server, which you can view in your browser at http://localhost:4000.
 
-Step 7: Push Changes to GitHub
+Step 8: Push Changes to GitHub
 Once you're happy with your resume, commit your changes and push them to GitHub using VS Code's Git functionality.
 
-Step 8: Enable GitHub Pages
+Step 9: Enable GitHub Pages
 In the repository settings on GitHub, enable GitHub Pages and choose the "main" branch as the source. Your resume should now be live at http://your-username.github.io.
 
 Relating to Etter's Book
