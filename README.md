@@ -39,9 +39,11 @@ On your local machine, clone the repository you just created using Atom's built-
 2. Delete the created **index.md** file in your mySite project, and rename your **resume** file to **index.md** and put your new **index.md** into your mySite Project.
 
 3. Push your mySite project into your GitHub. Using code:  
-`git remote add origin <URL_OF_YOUR_REPOSITORY>`
-`git branch -M main`  
-`git push -u origin main`
+```
+git remote add origin <URL_OF_YOUR_REPOSITORY>  
+git branch -M main   
+git push -u origin main
+```
 
 Step 5: Choose a Jekyll Theme
 Choose a Jekyll theme for your resume. A good place to start is the Jekyll Themes website. Once you've found a theme you like, copy the files for that theme into your repository. Make sure to include any dependencies or assets that the theme requires.
