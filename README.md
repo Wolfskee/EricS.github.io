@@ -16,7 +16,9 @@ In this section, you need to prepare the items that be listed below:
 ## Instructions
 **Step 1**: Create a Repository in GitHub.  
 Once you created your GitHub Account. Login in to your GitHub Account, you will see a "**New**" button on your top Left.
- ![A GIF showing the step 1](https://github.com/Wolfskee/EricS.github.io/blob/master/pic/createRepository.gif)
+ ![A GIF showing the step 1](https://github.com/Wolfskee/EricS.github.io/blob/master/pic/createRepository.gif)  
+ give a name for your repository:
+ ![A GIF showing the give name of repository]()
 
 
 Step 2: Clone the Repository
