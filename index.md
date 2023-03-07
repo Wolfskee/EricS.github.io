@@ -7,15 +7,18 @@ layout: home
 # Eric Shu
 shux@myumanitoba.ca  
 https://github.com/Wolfskee  
+
 ---
 
 ### Summary  
 Recent computer science graduate with experience in software development and data analysis. Proficient in several programming languages and software tools. Strong problem-solving and analytical skills.   
+
 ---
 ## Education
 
 Bachelor of Computer Science (Major)  
 University of Manitoba   
+
 ---
 ## Skills
 **Languages**
