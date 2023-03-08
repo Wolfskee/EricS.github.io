@@ -1,4 +1,7 @@
-
+---
+layout: page
+title: resume
+---
 # Eric Shu
 shux@myumanitoba.ca  
 https://github.com/Wolfskee  
