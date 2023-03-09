@@ -41,20 +41,20 @@ After enter this code in your command, you can browse your Jekyll project locaol
 
 **Step 4: Choose a Jekyll Theme**  
 Choose a Jekyll theme for your resume. A good place to start is the [Jekyll Themes github](https://github.com/topics/jekyll-theme). Once you've found a theme you like, follow the instruction that the theme provide and your theme setup is done. Here is an example of using **[just-the-docs](https://github.com/just-the-docs/just-the-docs)** as my theme.  
-In the **README.md**, it provides me the instruction of how to use their theme.  
+In the ```README.md```, it provides me the instruction of how to use their theme.  
 ![a pic shows the instruction of just-the-doc](https://github.com/Wolfskee/wolfskee.github.io/blob/master/pic/picJust-the-doc.png)  
-1. add the following line in **Gemfile**:  
+1. add the following line in ```Gemfile```:  
 ```
 gem "just-the-docs"
 ```  
 you need to comment the original theme and then add the new theme, the following pic shows where you need to change.  
 ![a pic shows gemfile](https://github.com/Wolfskee/wolfskee.github.io/blob/master/pic/gemfilePic.png)  
-2. add the following line in **_config.yml**  
+2. add the following line in ```_config.yml```  
 ```
 remote_theme: just-the-docs
 ```
 ![a pic shows config](https://github.com/Wolfskee/wolfskee.github.io/blob/master/pic/configPic.png)
-Same for **_config.yml** we need to and then add the new theme.  
+Same for ```_config.yml``` we need to and then add the new theme.  
 3. And then execute:  
 ```
 $ bundle
@@ -63,8 +63,25 @@ Or install it yourself as:
 ```
 $ gem install just-the-docs
 ```
-
-
+4. Test it in local.
+```
+bundle exec jekyll serve
+```
+Once it works in local, we need to change few settings to let it works on GitHub Pages.
+5. In ```gemfile``` we need uncomment this:
+```
+gem "github-pages", "~> 228" group: :jekyll_plugins
+```
+which located at line 16
+6. In ```_config.yml``` we need to change
+```
+theme: just-the-docs
+```
+to ```remote_theme: <repository_name_of_your_theme>```
+```
+remote_theme: just-the-docs/just-the-docs
+```
+After that, you are ready to push it to GitHub.
 **Step 6: Push Changes to GitHub**  
 Once you're happy with your resume, commit your changes and push them to GitHub using following command:  
 ```
@@ -91,10 +108,12 @@ Select **Deploy from a branch** for source section and then choose the **"master
 Your resume should now be live at http://your-username.github.io.  
 For the example you can browse https://wolfskee.github.io/
 
-**Demo**
 
 **Relating to Etter's Book**  
 In Andrew Etter's book Modern Technical Writing, he emphasizes the importance of using plain text formats like Markdown to create documentation. By hosting your resume on GitHub Pages using Jekyll, you are using a plain text format that can be easily version-controlled and collaboratively edited. Additionally, by choosing a Jekyll theme for your resume, you are using a reusable and customizable template, which follows Etter's principles of efficiency and consistency.
+
+## Demo
+![demo](https://github.com/Wolfskee/wolfskee.github.io/blob/master/pic/demo.gif)
 
 
 ## More Resources   
