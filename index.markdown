@@ -1,7 +1,3 @@
----
-layout: page
-title: resume
----
 # Eric Shu
 shux@myumanitoba.ca  
 https://github.com/Wolfskee  
@@ -31,7 +27,7 @@ University of Manitoba
 **Framework**
 - vue.js
 - node.js
-- django   
+- django
 ---
 ## Projects
 **Data Analysis of Consumer Reviews**

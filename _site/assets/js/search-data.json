@@ -1,0 +1,65 @@
+{"0": {
+    "doc": "About",
+    "title": "About",
+    "content": "This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at jekyllrb.com . You can find the source code for Minima at GitHub: jekyll / minima . You can find the source code for Jekyll at GitHub: jekyll / jekyll . ",
+    "url": "/about/",
+    
+    "relUrl": "/about/"
+  },"1": {
+    "doc": "resume",
+    "title": "Eric Shu",
+    "content": "shux@myumanitoba.ca https://github.com/Wolfskee . Summary . Recent computer science graduate with experience in software development and data analysis. Proficient in several programming languages and software tools. Strong problem-solving and analytical skills. ",
+    "url": "/#eric-shu",
+    
+    "relUrl": "/#eric-shu"
+  },"2": {
+    "doc": "resume",
+    "title": "Education",
+    "content": "Bachelor of Computer Science (Major) University of Manitoba . ",
+    "url": "/#education",
+    
+    "relUrl": "/#education"
+  },"3": {
+    "doc": "resume",
+    "title": "Skills",
+    "content": "Languages . | Python | Java | C++ | Javascript | SQL | Git | Tableau | . Framework . | vue.js | node.js | ",
+    "url": "/#skills",
+    
+    "relUrl": "/#skills"
+  },"4": {
+    "doc": "resume",
+    "title": "django",
+    "content": " ",
+    "url": "/#django",
+    
+    "relUrl": "/#django"
+  },"5": {
+    "doc": "resume",
+    "title": "Projects",
+    "content": "Data Analysis of Consumer Reviews . | Analyzed a dataset of product reviews using Python and Pandas | Visualized results using Tableau | Presented findings to team and stakeholders | Improved customer satisfaction by addressing issues identified in the analysis | . Web Development Project . | Developed a full-stack web application using Python and django | Designed and implemented database schema using SQL | Used Git for version control and collaboration with team members | ",
+    "url": "/#projects",
+    
+    "relUrl": "/#projects"
+  },"6": {
+    "doc": "resume",
+    "title": "Deployed the application on a cloud-based platform",
+    "content": " ",
+    "url": "/#deployed-the-application-on-a-cloud-based-platform",
+    
+    "relUrl": "/#deployed-the-application-on-a-cloud-based-platform"
+  },"7": {
+    "doc": "resume",
+    "title": "Experience",
+    "content": "| . Software Engineering Intern, XYZ Company, Summer 2020 . | Worked with a team of developers to implement new features for a web-based application | Developed and maintained automated test scripts using Python and Selenium | Assisted in troubleshooting and debugging issues reported by users | Participated in code reviews and contributed to team knowledge base | . ",
+    "url": "/#experience",
+    
+    "relUrl": "/#experience"
+  },"8": {
+    "doc": "resume",
+    "title": "resume",
+    "content": " ",
+    "url": "/",
+    
+    "relUrl": "/"
+  }
+}
