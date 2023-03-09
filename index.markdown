@@ -1,6 +1,6 @@
 # Eric Shu
 shux@myumanitoba.ca  
-https://github.com/Wolfskee  
+[https://github.com/Wolfskee](https://github.com/Wolfskee)
 
 ---
 
@@ -13,7 +13,8 @@ Recent computer science graduate with experience in software development and dat
 Bachelor of Computer Science (Major)  
 University of Manitoba   
 
----
+---  
+
 ## Skills
 **Languages**
 - Python
@@ -27,8 +28,10 @@ University of Manitoba
 **Framework**
 - vue.js
 - node.js
-- django
+- django  
+
 ---
+
 ## Projects
 **Data Analysis of Consumer Reviews**
 
@@ -42,8 +45,10 @@ University of Manitoba
 - Developed a full-stack web application using Python and django
 - Designed and implemented database schema using SQL
 - Used Git for version control and collaboration with team members
-- Deployed the application on a cloud-based platform   
+- Deployed the application on a cloud-based platform  
+
 ---
+
 ## Experience
 
 **Software Engineering Intern, XYZ Company, Summer 2020**
