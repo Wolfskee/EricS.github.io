@@ -74,6 +74,9 @@ git push -u origin main
 ```
 Or, you can using the Github desktop to push your code or commit your changes.
 In the GitHub desktop, click the **current repository** and click **Add** and choose **Add existing repository**.
+![addRepository](https://github.com/Wolfskee/wolfskee.github.io/blob/master/pic/addRepository.gif)  
+And then, write some update infomation in your commit information and then click commit to master, and push origin.
+![commit](https://github.com/Wolfskee/wolfskee.github.io/blob/master/pic/commit.gif)  
 
 **Step 8: Enable GitHub Pages**  
 In the repository, click the settings:
@@ -99,8 +102,12 @@ Markdown tutorial
 Andrew Etter's book Modern Technical Writing  
 Jekyll Themes
 ## Authors and Acknowledgments
-This README was created by the OpenAI GPT-3 language model with contributions from the OpenAI team.
+This README was created by Eric Shu  
+The website use [just-the-doc](https://github.com/just-the-docs/just-the-docs) theme
 
 ## FAQs
-Why is Markdown better than a word processor?
-Markdown is better than a word
+**Why is Markdown better than a word processor?**
+Markdown is a simple way of formatting text that's easy to learn and use. It's better than traditional word processors because it allows you to create documents that can be opened on any device or operating system, and because it's more efficient and allows you to focus on your content rather than formatting. Additionally, because Markdown files are plain text, they're more accessible to people with disabilities and can be easily tracked and managed using version control systems. So, if you're looking for a faster, easier, and more flexible way to create documents, Markdown might be a great choice for you!
+
+**Why does my new Jekyll template not change on my "GitHub Page"?**  
+GitHub Pages needs time for the settings to update. It would be updated in 10 mins
