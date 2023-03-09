@@ -56,9 +56,3 @@ University of Manitoba
 - Developed and maintained automated test scripts using Python and Selenium
 - Assisted in troubleshooting and debugging issues reported by users
 - Participated in code reviews and contributed to team knowledge base   
----
-### Teaching Assistant, University of California, Los Angeles, September 2019 - June 2021
-
-- Assisted with course administration and grading for computer science courses
-- Tutored students in programming concepts and problem-solving techniques
-- Collaborated with faculty to design and implement course content
