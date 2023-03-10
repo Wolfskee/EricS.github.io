@@ -19,7 +19,10 @@ In this section, you need to prepare the items that be listed below:
 ---
 
 ## Instructions
-**Step 1**: Create a Repository in GitHub.  
+**Step 1: Create a GitHub account**  
+Click [here](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home) will jump to Github Signup page. follow the instructions in the Signup pages you will create an account successfully.
+
+**Step 1: Create a Repository in GitHub.**  
 Once you created your GitHub Account. Login in to your GitHub Account, you will see a "**New**" button on your top left, click it.
  ![A GIF showing the step 1](https://github.com/Wolfskee/EricS.github.io/blob/master/pic/createRepository.gif)  
 
@@ -27,7 +30,7 @@ Once you created your GitHub Account. Login in to your GitHub Account, you will 
  ![A GIF showing the give name of repository](https://github.com/Wolfskee/EricS.github.io/blob/master/pic/nameRepository.gif)
 
 
-**Step 2**: Clone the Repository.  
+**Step 2: Clone the Repository.**    
 On your local machine, clone the repository you just created using Atom's built-in Git functionality. Open Atom, press Ctrl+Shift+P,(On Mac OS press Command+Shift+P) and type "GitHub: Clone." Enter the URL of your repository when prompted.
  ![A GIF showing copy URL](https://github.com/Wolfskee/EricS.github.io/blob/master/pic/copyURL.gif)
  ![A GIF showing paste URL](https://github.com/Wolfskee/EricS.github.io/blob/master/pic/pasteURL.gif)
