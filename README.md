@@ -50,7 +50,7 @@ cd mySite
 ```
 bundle exec jekyll serve
 ```
-After enter this code in your command, you can browse your Jekyll project locally by visiting **http://localhost:4000**
+After enter this code in your command, you can browse your Jekyll project locally by visiting **http://localhost:4000**. Your resume will be displayed in the website.
 
 **Step 5: Choose a Jekyll Theme**  
 Choose a Jekyll theme for your resume. A good place to start is the [Jekyll Themes github](https://github.com/topics/jekyll-theme). Once you've found a theme you like, follow the instruction that the theme provide and your theme setup is done. Here is an example of using **[just-the-docs](https://github.com/just-the-docs/just-the-docs)** as my theme.  
@@ -84,7 +84,8 @@ $ gem install just-the-docs
 ```
 bundle exec jekyll serve
 ```
-Once it works in local, we need to change few settings to let it works on GitHub Pages.  
+Once it works in local, we need to change few settings to let it works on GitHub Pages.
+
 5. In ```gemfile``` we need uncomment this:
 ```
 gem "github-pages", "~> 228" group: :jekyll_plugins
@@ -101,13 +102,15 @@ remote_theme: just-the-docs/just-the-docs
 After that, you are ready to push it to GitHub.  
 
 **Step 6: Push Changes to GitHub**  
+There are two ways to push your project into GitHub.
+1. **By command**.
 Once you're happy with your resume, commit your changes and push them to GitHub using following command:  
 ```
 git remote add origin <URL_OF_YOUR_REPOSITORY>  
 git branch -M main   
 git push -u origin main
 ```
-Or, you can using the Github desktop to push your code or commit your changes.
+2. **By using GitHub Desktop** using the Github desktop to push your code or commit your changes.
 In the GitHub desktop, click the **current repository** and click **Add** and choose **Add existing repository**.
 ![addRepository](https://github.com/Wolfskee/wolfskee.github.io/blob/master/pic/addRepository.gif)  
 
