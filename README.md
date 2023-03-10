@@ -7,12 +7,12 @@ This instruction will help computer science students who has no background with 
 ### Getting Started
 In this section, you need to prepare the items that be listed below:
 1. Get yourself a Markdown editor
-  * [Atom](https://atom.io)
+  * [Atom](https://atom.io) (Recommand)
   * [VSCode](https://code.visualstudio.com/)
 2. Create [GitHub](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home) Account
 3. Download [Ruby](https://www.ruby-lang.org/en/downloads/)
 4. Download [Jekyll](https://jekyllrb.com/docs/)
-5. Download [Github Desktop](https://desktop.github.com/)(Optional)
+5. Download [Github Desktop](https://desktop.github.com/) (Optional)
 ## Instructions
 **Step 1**: Create a Repository in GitHub.  
 Once you created your GitHub Account. Login in to your GitHub Account, you will see a "**New**" button on your top Left.
@@ -67,7 +67,7 @@ $ gem install just-the-docs
 ```
 bundle exec jekyll serve
 ```
-Once it works in local, we need to change few settings to let it works on GitHub Pages.
+Once it works in local, we need to change few settings to let it works on GitHub Pages.  
 5. In ```gemfile``` we need uncomment this:
 ```
 gem "github-pages", "~> 228" group: :jekyll_plugins
@@ -81,7 +81,7 @@ to ```remote_theme: <repository_name_of_your_theme>```
 ```
 remote_theme: just-the-docs/just-the-docs
 ```
-After that, you are ready to push it to GitHub.
+After that, you are ready to push it to GitHub.  
 **Step 6: Push Changes to GitHub**  
 Once you're happy with your resume, commit your changes and push them to GitHub using following command:  
 ```
@@ -95,11 +95,11 @@ In the GitHub desktop, click the **current repository** and click **Add** and ch
 And then, write some update infomation in your commit information and then click commit to master, and push origin.
 ![commit](https://github.com/Wolfskee/wolfskee.github.io/blob/master/pic/commit.gif)  
 
-**Step 8: Enable GitHub Pages**  
+**Step 7: Enable GitHub Pages**  
 In the repository, click the settings:
 ![repositorySetting](https://github.com/Wolfskee/wolfskee.github.io/blob/master/pic/repositoryStting.png)  
 
-and choosing **Pages**:
+choosing **Pages**:
 ![page](https://github.com/Wolfskee/wolfskee.github.io/blob/master/pic/choosePage.png)  
 
 
@@ -117,15 +117,15 @@ In Andrew Etter's book Modern Technical Writing, he emphasizes the importance of
 
 
 ## More Resources   
-Markdown tutorial  
-Andrew Etter's book Modern Technical Writing  
-Jekyll Themes
+[Markdown tutorial](https://www.markdowntutorial.com/)  
+[Andrew Etter's book Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)  
+[Jekyll Themes](https://github.com/topics/jekyll-theme)
 ## Authors and Acknowledgments
 This README was created by Eric Shu  
 The website use [just-the-doc](https://github.com/just-the-docs/just-the-docs) theme
 
 ## FAQs
-**Why is Markdown better than a word processor?**
+**Why is Markdown better than a word processor?**  
 Markdown is a simple way of formatting text that's easy to learn and use. It's better than traditional word processors because it allows you to create documents that can be opened on any device or operating system, and because it's more efficient and allows you to focus on your content rather than formatting. Additionally, because Markdown files are plain text, they're more accessible to people with disabilities and can be easily tracked and managed using version control systems. So, if you're looking for a faster, easier, and more flexible way to create documents, Markdown might be a great choice for you!
 
 **Why does my new Jekyll template not change on my "GitHub Page"?**  
