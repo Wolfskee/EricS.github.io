@@ -22,7 +22,7 @@ In this section, you need to prepare the items that be listed below:
 **Step 1: Create a GitHub account**  
 Click [here](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home) will jump to Github Signup page. follow the instructions in the Signup pages you will create an account successfully.
 
-**Step 1: Create a Repository in GitHub.**  
+**Step 2: Create a Repository in GitHub.**  
 Once you created your GitHub Account. Login in to your GitHub Account, you will see a "**New**" button on your top left, click it.
  ![A GIF showing the step 1](https://github.com/Wolfskee/EricS.github.io/blob/master/pic/createRepository.gif)  
 
@@ -30,14 +30,14 @@ Once you created your GitHub Account. Login in to your GitHub Account, you will 
  ![A GIF showing the give name of repository](https://github.com/Wolfskee/EricS.github.io/blob/master/pic/nameRepository.gif)
 
 
-**Step 2: Clone the Repository.**    
+**Step 3: Clone the Repository.**    
 On your local machine, clone the repository you just created using Atom's built-in Git functionality. Open Atom, press Ctrl+Shift+P,(On Mac OS press Command+Shift+P) and type "GitHub: Clone." Enter the URL of your repository when prompted.
  ![A GIF showing copy URL](https://github.com/Wolfskee/EricS.github.io/blob/master/pic/copyURL.gif)
  ![A GIF showing paste URL](https://github.com/Wolfskee/EricS.github.io/blob/master/pic/pasteURL.gif)  
 
  Now, you have created a repository.  
 
-**Step 3: Create a new Jeckyll project locally and push to your github**  
+**Step 4: Create a new Jeckyll project locally and push to your github**  
 1. Once you installed the Jekyll, run `jekyll new mySite` (mySite is your project's name) to create a new Jekyll project. And then using `cd mySite` to change directory to **mySite**.
 ```
 jekyll new mySite
@@ -50,7 +50,7 @@ bundle exec jekyll serve
 ```
 After enter this code in your command, you can browse your Jekyll project locaolly by visit **http://localhost:4000**
 
-**Step 4: Choose a Jekyll Theme**  
+**Step 5: Choose a Jekyll Theme**  
 Choose a Jekyll theme for your resume. A good place to start is the [Jekyll Themes github](https://github.com/topics/jekyll-theme). Once you've found a theme you like, follow the instruction that the theme provide and your theme setup is done. Here is an example of using **[just-the-docs](https://github.com/just-the-docs/just-the-docs)** as my theme.  
 
 In the ```README.md```, it provides me the instruction of how to use their theme.  
@@ -98,7 +98,7 @@ remote_theme: just-the-docs/just-the-docs
 ```
 After that, you are ready to push it to GitHub.  
 
-**Step 5: Push Changes to GitHub**  
+**Step 6: Push Changes to GitHub**  
 Once you're happy with your resume, commit your changes and push them to GitHub using following command:  
 ```
 git remote add origin <URL_OF_YOUR_REPOSITORY>  
