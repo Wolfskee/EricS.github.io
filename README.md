@@ -17,6 +17,7 @@ In this section, you need to prepare the items that be listed below:
 **Step 1**: Create a Repository in GitHub.  
 Once you created your GitHub Account. Login in to your GitHub Account, you will see a "**New**" button on your top Left.
  ![A GIF showing the step 1](https://github.com/Wolfskee/EricS.github.io/blob/master/pic/createRepository.gif)  
+
  give a name for your repository:
  ![A GIF showing the give name of repository](https://github.com/Wolfskee/EricS.github.io/blob/master/pic/nameRepository.gif)
 
@@ -49,12 +50,15 @@ gem "just-the-docs"
 ```  
 you need to comment the original theme and then add the new theme, the following pic shows where you need to change.  
 ![a pic shows gemfile](https://github.com/Wolfskee/wolfskee.github.io/blob/master/pic/gemfilePic.png)  
+
 2. add the following line in ```_config.yml```  
 ```
 remote_theme: just-the-docs
 ```
-![a pic shows config](https://github.com/Wolfskee/wolfskee.github.io/blob/master/pic/configPic.png)
+![a pic shows config](https://github.com/Wolfskee/wolfskee.github.io/blob/master/pic/configPic.png)  
+
 Same for ```_config.yml``` we need to and then add the new theme.  
+
 3. And then execute:  
 ```
 $ bundle
@@ -92,7 +96,8 @@ git push -u origin main
 Or, you can using the Github desktop to push your code or commit your changes.
 In the GitHub desktop, click the **current repository** and click **Add** and choose **Add existing repository**.
 ![addRepository](https://github.com/Wolfskee/wolfskee.github.io/blob/master/pic/addRepository.gif)  
-And then, write some update infomation in your commit information and then click commit to master, and push origin.
+
+And then, write some update infomation in your commit information and then click commit to master, and push origin.  
 ![commit](https://github.com/Wolfskee/wolfskee.github.io/blob/master/pic/commit.gif)  
 
 **Step 7: Enable GitHub Pages**  
@@ -105,6 +110,7 @@ choosing **Pages**:
 
 Select **Deploy from a branch** for source section and then choose the **"master"** branch and **"/(root)"** in branch section. And click **Save**.  
 ![branch](https://github.com/Wolfskee/wolfskee.github.io/blob/master/pic/branch.png)  
+
 Your resume should now be live at http://your-username.github.io.  
 For the example you can browse https://wolfskee.github.io/
 
