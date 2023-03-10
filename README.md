@@ -23,7 +23,7 @@ In this section, you need to prepare the items that be listed below:
 Once you created your GitHub Account. Login in to your GitHub Account, you will see a "**New**" button on your top left, click it.
  ![A GIF showing the step 1](https://github.com/Wolfskee/EricS.github.io/blob/master/pic/createRepository.gif)  
 
- in the next page, give a name for your repository and click create:
+ in the next page, give a name for your repository and click **create repository** button at the bottom of the page:
  ![A GIF showing the give name of repository](https://github.com/Wolfskee/EricS.github.io/blob/master/pic/nameRepository.gif)
 
 
