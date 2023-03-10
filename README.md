@@ -36,6 +36,8 @@ On your local machine, clone the repository you just created using Atom's built-
  ![A GIF showing copy URL](https://github.com/Wolfskee/EricS.github.io/blob/master/pic/copyURL.gif)
  ![A GIF showing paste URL](https://github.com/Wolfskee/EricS.github.io/blob/master/pic/pasteURL.gif)  
 
+ Press the **Clone** button, your repository will be cloned to your local machine. and it will be displayed in project section on you left.  
+
 
 **Step 4: Create a new Jekyll project locally and push to your github**  
 1. Once you installed the Jekyll, run `jekyll new mySite` (mySite is your project's name) to create a new Jekyll project. And then using `cd mySite` to change directory to **mySite**.
