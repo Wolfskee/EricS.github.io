@@ -3,6 +3,8 @@
 ## INTENDED AUDIENCE
 This instruction will help computer science students who has no background with Markdown file, Jekyll, and GitHub to host their Resume through GitHub Pages.
 
+---
+
 ## PREREQUISITES
 ### Getting Started
 In this section, you need to prepare the items that be listed below:
@@ -13,6 +15,9 @@ In this section, you need to prepare the items that be listed below:
 3. Download [Ruby](https://www.ruby-lang.org/en/downloads/)
 4. Download [Jekyll](https://jekyllrb.com/docs/)
 5. Download [Github Desktop](https://desktop.github.com/) (Optional)
+
+---
+
 ## Instructions
 **Step 1**: Create a Repository in GitHub.  
 Once you created your GitHub Account. Login in to your GitHub Account, you will see a "**New**" button on your top Left.
@@ -118,17 +123,25 @@ For the example you can browse https://wolfskee.github.io/
 **Relating to Etter's Book**  
 In Andrew Etter's book Modern Technical Writing, he emphasizes the importance of using plain text formats like Markdown to create documentation. By hosting your resume on GitHub Pages using Jekyll, you are using a plain text format that can be easily version-controlled and collaboratively edited. Additionally, by choosing a Jekyll theme for your resume, you are using a reusable and customizable template, which follows Etter's principles of efficiency and consistency.
 
+---
+
 ## Demo
 ![demo](https://github.com/Wolfskee/wolfskee.github.io/blob/master/pic/demo.gif)
 
+---
 
 ## More Resources   
 [Markdown tutorial](https://www.markdowntutorial.com/)  
 [Andrew Etter's book Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)  
 [Jekyll Themes](https://github.com/topics/jekyll-theme)
+
+---
+
 ## Authors and Acknowledgments
 This README was created by Eric Shu  
 The website use [just-the-doc](https://github.com/just-the-docs/just-the-docs) theme
+
+---
 
 ## FAQs
 **Why is Markdown better than a word processor?**  
