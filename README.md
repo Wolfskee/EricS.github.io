@@ -112,7 +112,7 @@ In the GitHub desktop, click the **current repository** and click **Add** and ch
 And then, write some update infomation in your commit information and then click commit to master, and push origin.  
 ![commit](https://github.com/Wolfskee/wolfskee.github.io/blob/master/pic/commit.gif)  
 
-**Step 6: Enable GitHub Pages**  
+**Step 7: Enable GitHub Pages**  
 In the repository, click the settings:
 ![repositorySetting](https://github.com/Wolfskee/wolfskee.github.io/blob/master/pic/repositoryStting.png)  
 
