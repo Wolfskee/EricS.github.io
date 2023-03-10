@@ -18,7 +18,7 @@ In this section, you need to prepare the items that be listed below:
 
 ---
 
-## Instructions
+## INSTRUCTION
 **Step 1: Create a GitHub account**  
 Click [here](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home) will jump to Github Signup page. follow the instructions in the Signup pages you will create an account successfully.
 
@@ -37,7 +37,7 @@ On your local machine, clone the repository you just created using Atom's built-
  ![A GIF showing paste URL](https://github.com/Wolfskee/EricS.github.io/blob/master/pic/pasteURL.gif)  
 
 
-**Step 4: Create a new Jeckyll project locally and push to your github**  
+**Step 4: Create a new Jekyll project locally and push to your github**  
 1. Once you installed the Jekyll, run `jekyll new mySite` (mySite is your project's name) to create a new Jekyll project. And then using `cd mySite` to change directory to **mySite**.
 ```
 jekyll new mySite
@@ -48,7 +48,7 @@ cd mySite
 ```
 bundle exec jekyll serve
 ```
-After enter this code in your command, you can browse your Jekyll project locaolly by visit **http://localhost:4000**
+After enter this code in your command, you can browse your Jekyll project locally by visiting **http://localhost:4000**
 
 **Step 5: Choose a Jekyll Theme**  
 Choose a Jekyll theme for your resume. A good place to start is the [Jekyll Themes github](https://github.com/topics/jekyll-theme). Once you've found a theme you like, follow the instruction that the theme provide and your theme setup is done. Here is an example of using **[just-the-docs](https://github.com/just-the-docs/just-the-docs)** as my theme.  
@@ -132,19 +132,19 @@ In Andrew Etter's book Modern Technical Writing, he emphasizes the importance of
 
 ---
 
-## Demo
+## DEMO
 ![demo](https://github.com/Wolfskee/wolfskee.github.io/blob/master/pic/demo.gif)
 
 ---
 
-## More Resources   
+## MORE RESOURCES  
 [Markdown tutorial](https://www.markdowntutorial.com/)  
 [Andrew Etter's book Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)  
 [Jekyll Themes](https://github.com/topics/jekyll-theme)
 
 ---
 
-## Authors and Acknowledgments
+## AUTHORS AND ACKNOWLEDGMENTS
 This README was created by Eric Shu  
 The website use [just-the-doc](https://github.com/just-the-docs/just-the-docs) theme
 
