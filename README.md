@@ -27,15 +27,15 @@ Once you created your GitHub Account. Login in to your GitHub Account, you will 
  ![A GIF showing the step 1](https://github.com/Wolfskee/EricS.github.io/blob/master/pic/createRepository.gif)  
 
  in the next page, give a name for your repository and click **create repository** button at the bottom of the page:
- ![A GIF showing the give name of repository](https://github.com/Wolfskee/EricS.github.io/blob/master/pic/nameRepository.gif)
+ ![A GIF showing the give name of repository](https://github.com/Wolfskee/EricS.github.io/blob/master/pic/nameRepository.gif)  
 
+ Now, you have created a repository.
 
 **Step 3: Clone the Repository.**    
 On your local machine, clone the repository you just created using Atom's built-in Git functionality. Open Atom, press Ctrl+Shift+P,(On Mac OS press Command+Shift+P) and type "GitHub: Clone." Enter the URL of your repository when prompted.
  ![A GIF showing copy URL](https://github.com/Wolfskee/EricS.github.io/blob/master/pic/copyURL.gif)
  ![A GIF showing paste URL](https://github.com/Wolfskee/EricS.github.io/blob/master/pic/pasteURL.gif)  
 
- Now, you have created a repository.  
 
 **Step 4: Create a new Jeckyll project locally and push to your github**  
 1. Once you installed the Jekyll, run `jekyll new mySite` (mySite is your project's name) to create a new Jekyll project. And then using `cd mySite` to change directory to **mySite**.
