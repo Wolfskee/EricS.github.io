@@ -20,10 +20,10 @@ In this section, you need to prepare the items that be listed below:
 
 ## Instructions
 **Step 1**: Create a Repository in GitHub.  
-Once you created your GitHub Account. Login in to your GitHub Account, you will see a "**New**" button on your top Left.
+Once you created your GitHub Account. Login in to your GitHub Account, you will see a "**New**" button on your top left, click it.
  ![A GIF showing the step 1](https://github.com/Wolfskee/EricS.github.io/blob/master/pic/createRepository.gif)  
 
- give a name for your repository:
+ in the next page, give a name for your repository and click create:
  ![A GIF showing the give name of repository](https://github.com/Wolfskee/EricS.github.io/blob/master/pic/nameRepository.gif)
 
 
@@ -47,6 +47,7 @@ After enter this code in your command, you can browse your Jekyll project locaol
 
 **Step 4: Choose a Jekyll Theme**  
 Choose a Jekyll theme for your resume. A good place to start is the [Jekyll Themes github](https://github.com/topics/jekyll-theme). Once you've found a theme you like, follow the instruction that the theme provide and your theme setup is done. Here is an example of using **[just-the-docs](https://github.com/just-the-docs/just-the-docs)** as my theme.  
+
 In the ```README.md```, it provides me the instruction of how to use their theme.  
 ![a pic shows the instruction of just-the-doc](https://github.com/Wolfskee/wolfskee.github.io/blob/master/pic/picJust-the-doc.png)  
 1. add the following line in ```Gemfile```:  
