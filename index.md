@@ -1,59 +1,76 @@
-# Eric Shu
+# Xinglong Shu
 shux@myumanitoba.ca  
-[https://github.com/Wolfskee](https://github.com/Wolfskee)
+(647)-703-7039  
+[https://github.com/Wolfskee](https://github.com/Wolfskee)  
+[https://www.linkedin.com/in/eric-shua1066029a/](https://www.linkedin.com/in/eric-shua1066029a/)  
 
 ---
 
-### Summary  
-Recent computer science graduate with experience in software development and data analysis. Proficient in several programming languages and software tools. Strong problem-solving and analytical skills.   
+### PROFILE  
+A task driven individual with the ability to adapt to new environment and potential to 
+grow.  
 
 ---
-## Education
+## EDUCATION
 
-Bachelor of Computer Science (Major)  
-University of Manitoba   
+University of Manitoba
+Bachelor of Computer Science, Major
+May 2021 – Expect July 2024
 
 ---  
 
 ## Skills
-**Languages**
-- Python
-- Java
-- C++
-- Javascript
-- SQL
-- Git
-- Tableau  
-
-**Framework**
-- vue.js
-- node.js
-- django  
+Language & Framework: Java, JavaScript, Python, C, C++, HTML5, CSS, Django  
+Platform: Windows, Linux, MacOS  
+Version Control: GitHub, GitLab  
+Database: MySQL, SQLite, MongoDB  
 
 ---
 
-## Projects
-**Data Analysis of Consumer Reviews**
+## PERSONAL EXPERINCE
+**Data Analyst, Part-time Intern**
+Borealis AI| Toronto | Canada
+Project: Forecasting tornado Timing, Magnitude, and Location
+https://github.com/Fyfe-c/UM-Bison
+• Conducted an in-depth analysis of over 200,000 climatic entries to pinpoint 
+tornado formation indicators through the use of sophisticated machine learning 
+techniques.
+• Implemented data feature optimization and utilized methodologies such as 
+Random Forests, Support Vector Machines, and Neural Networks to improve the 
+accuracy of predictive models.
+• Assessed the effectiveness of the models by employing cross-validation 
+techniques and performance indicators including precision, recall, and F1-score.
+• Aided in the creation of advanced warning systems by effectively forecasting 
+areas at high risk of tornado occurrences.
 
-- Analyzed a dataset of product reviews using Python and Pandas
-- Visualized results using Tableau
-- Presented findings to team and stakeholders
-- Improved customer satisfaction by addressing issues identified in the analysis
 
-**Web Development Project**
-
-- Developed a full-stack web application using Python and django
-- Designed and implemented database schema using SQL
-- Used Git for version control and collaboration with team members
-- Deployed the application on a cloud-based platform  
+**Data Analyst, Part-time Intern**
+National Inter-University Big Data and AI Challenge  
+Project: The potential advantage of machine learning for the early prediction of rare 
+diseases  
+• Analyzed and processed a data set of 8000+ patients’ records to identify rare 
+diseases ("Wolfram") patient using advanced ML algorithms.
+• Assisted in decreasing prospective healthcare expenses by focusing on early 
+diagnosis and precise treatment strategies.
 
 ---
 
-## Experience
+## RELEVANT PROJECT
 
-**Software Engineering Intern, XYZ Company, Summer 2020**
+**Interface Design and implement          Sep. 2023 – Dec. 2023**
+Julisten website interface Project| https://github.com/Wolfskee/Julisten-3020 | 
+University of Manitoba | JavaScript, HTML5, CSS, GitHub
+• Developed interface of Homepage.
+• Implement the “player” function, the carousel function on the homepage and the 
+introduction page for songs.
+• Assisted teammates in implementing the drag and drop feature and fixing bugs 
+throughout the website.  
 
-- Worked with a team of developers to implement new features for a web-based application
-- Developed and maintained automated test scripts using Python and Selenium
-- Assisted in troubleshooting and debugging issues reported by users
-- Participated in code reviews and contributed to team knowledge base   
+**Software Engineering                     Sep. 2020 – Dec. 2020**
+HealthTracker app Project| https://github.com/Wolfskee/HealthTracker | Carleton 
+University | Firebase, Android Studio, Java
+• Developed interface of HealthTracker app focusing on user experience and 
+simplicity.
+• Implemented pedometer function and graphical representation of calorie data.
+• Directed the application development team utilizing Android Studio, emphasizing 
+excellence by thorough testing, and incorporating web design elements.
